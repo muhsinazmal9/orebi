@@ -1,6 +1,6 @@
 # Orebi
 > `Orebi` a simple eCommerce frontend template.
-> Live demo [_here_](https://www.example.com).
+> Live demo [_here_](https://orebi-gold.vercel.app/).
 
 ## Table of Contents
 - [Orebi](#orebi)
